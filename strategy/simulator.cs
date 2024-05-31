@@ -1,5 +1,5 @@
 ﻿class MiniDuckSimulator {
-  public static void Main() {
+  public static void Run() {
     Duck mallard = new MallardDuck();
     mallard.performQuack();
     mallard.performFly();
