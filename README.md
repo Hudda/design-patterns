@@ -9,3 +9,6 @@ Strategy defines a family of algorithms, encapsulates each one, and makes them i
 ## Observer Pattern
 
 The Observer Pattern defines a one to many relationship between objects so that when one object changes state, all of its dependents are notified and upated automatically.
+
+## Decorator Pattern
+The Decorator Pattern attaches additional responsibilities to an object dynamically. Decorators provide a flexible alternative to subclassing for extending functionality.
