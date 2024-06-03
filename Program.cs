@@ -4,5 +4,6 @@ class Simulator {
     // WeatherStation.Run();  // observer-pattern
     // StarbuzzCoffeeSimulator.Run(); // decorator-pattern
     // FactoryMethod.PizzaStoreSimulator.Run(); // factory-method-pattern
+    AbstractFactory.Simulator.Run(); // abstract-factory-pattern
   }
 }
