@@ -11,4 +11,9 @@ Strategy defines a family of algorithms, encapsulates each one, and makes them i
 The Observer Pattern defines a one to many relationship between objects so that when one object changes state, all of its dependents are notified and upated automatically.
 
 ## Decorator Pattern
+
 The Decorator Pattern attaches additional responsibilities to an object dynamically. Decorators provide a flexible alternative to subclassing for extending functionality.
+
+## Factory Method Pattern
+
+The Factory Method Pattern defines an interface for creating an object, but lets subclasses decide which class to instantiate. Factory Method lets a class defer instantiation to subclasses.
