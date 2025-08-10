@@ -12,7 +12,7 @@ Observer is a behavioral design pattern that allows some objects to notify other
 
 ## Decorator Pattern
 
-
+Decorator is a structural pattern that allows adding new behaviors to objects dynamically by placing them inside special wrapper objects, called decorators.
 
 ## Factory Method Pattern
 
