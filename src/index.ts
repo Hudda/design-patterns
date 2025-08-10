@@ -1,3 +1,6 @@
-import { StrategyImplementation } from "./strategyPattern";
+import { ObserverImplementation } from "./observer";
+import { StrategyImplementation } from "./strategy";
 
-StrategyImplementation.execute();
+// StrategyImplementation.execute();
+
+ObserverImplementation.execute();
