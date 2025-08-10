@@ -1,1 +1,3 @@
-console.log("Design patterns");
+import { StrategyImplementation } from "./strategyPattern";
+
+StrategyImplementation.execute();
