@@ -16,7 +16,7 @@ Decorator is a structural pattern that allows adding new behaviors to objects dy
 
 ## Factory Method Pattern
 
-
+Factory method is a creational design pattern which solves the problem of creating product objects without specifying their concrete class.
 
 ## Abstract Factory Pattern
 
