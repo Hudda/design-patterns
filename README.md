@@ -20,7 +20,7 @@ Factory method is a creational design pattern which solves the problem of creati
 
 ## Abstract Factory Pattern
 
-
+Abstract factory is a creational design pattern, which solves the problem of creating entire product families without specifying their concrete classes.
 
 ## Singleton Pattern
 

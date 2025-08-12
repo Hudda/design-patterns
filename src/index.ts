@@ -1,3 +1,4 @@
+import { AbstractFactoryImplementation } from "./abstractFactory";
 import { DecoratorImplementation } from "./decorator";
 import { FactoryMethodImplementation } from "./factoryMethod";
 import { ObserverImplementation } from "./observer";
@@ -10,5 +11,8 @@ import { StrategyImplementation } from "./strategy";
 // const decorator = new DecoratorImplementation();
 // decorator.execute();
 
-const factoryMethod = new FactoryMethodImplementation();
-factoryMethod.execute();
+// const factoryMethod = new FactoryMethodImplementation();
+// factoryMethod.execute();
+
+const abstractFactory = new AbstractFactoryImplementation();
+abstractFactory.execute();
